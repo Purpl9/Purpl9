@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Christian Nuñez also know as Purple_💜</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/christian-nu%C3%B1ez-izaguirre-4baa60240/">
-   <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
+   <img src="https://img.shields.io/badge/linkedin-Christian Nuñez-blue">
     
   </a>
   
