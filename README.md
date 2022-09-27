@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate System and LAN administrator</h3>
 <h3 align="center">CFGS in ASIX on INS Bosc de la Coma (graduated in 2022)</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=Christian Nuñez/></p>
 
 
 - 👨🏾‍💻 I’m currently working as Help-Desk L2 Technician on 🏥 **Fundació Hospital Olot i Comarcal de la Garrotxa**
